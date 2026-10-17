@@ -1,0 +1,389 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87635,
+          47.04939
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Plateau Coubertin",
+        "city": "Cholet",
+        "address": "Rue Jean Bouin, 49300 Cholet",
+        "type": "terrain",
+        "access": "public",
+        "desc": "Deux terrains extérieurs bitumés de 364 m² chacun.",
+        "photo": null,
+        "source": null,
+        "checked": null,
+        "precision": "site",
+        "evidence": "Accès public signalé par la source ; pas de vérification sur place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.90133,
+          47.04891
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Plaine Olympique",
+        "city": "Cholet",
+        "address": "2 rue des Orfèvres, 49300 Cholet",
+        "type": "terrain",
+        "access": "public",
+        "desc": "Terrain basket de 243 m² et city-stade multisports de 288 m².",
+        "photo": null,
+        "source": null,
+        "checked": null,
+        "precision": "site",
+        "evidence": "Accès public signalé par la source ; pas de vérification sur place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.89495,
+          47.06204
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "City-stade Mocrat",
+        "city": "Cholet",
+        "address": "Quartier Mocrat, 49300 Cholet",
+        "type": "city",
+        "access": "verify",
+        "desc": "City-stade extérieur. Présence et accessibilité du panier à confirmer.",
+        "photo": null,
+        "source": null,
+        "checked": null,
+        "precision": "site",
+        "evidence": "Base initiale ; preuve indépendante non ajoutée en V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.85438,
+          47.05718
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Plateau du Verger",
+        "city": "Cholet",
+        "address": "Quartier du Verger, 49300 Cholet",
+        "type": "terrain",
+        "access": "verify",
+        "desc": "Plateau multisports bitumé de 800 m² ; vérifier les paniers.",
+        "photo": null,
+        "source": null,
+        "checked": null,
+        "precision": "site",
+        "evidence": "Base initiale ; preuve indépendante non ajoutée en V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.94141,
+          47.06165
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "name": "City-stade du Prieuré",
+        "city": "La Séguinière",
+        "address": "Rue du Prieuré, 49280 La Séguinière",
+        "type": "city",
+        "access": "public",
+        "desc": "City-stade bitumé de 288 m² avec basket déclaré.",
+        "photo": null,
+        "source": null,
+        "checked": null,
+        "precision": "site",
+        "evidence": "Accès public signalé par la source ; pas de vérification sur place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9514,
+          47.06678
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "name": "City-stade Coubertin (La Séguinière)",
+        "city": "La Séguinière",
+        "address": "Secteur Coubertin, 49280 La Séguinière",
+        "type": "city",
+        "access": "verify",
+        "desc": "City-stade extérieur bitumé de 288 m².",
+        "photo": null,
+        "source": null,
+        "checked": null,
+        "precision": "site",
+        "evidence": "Base initiale ; preuve indépendante non ajoutée en V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.85652,
+          47.00259
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "name": "City-stade des Chênes",
+        "city": "La Tessoualle",
+        "address": "Rue du Stade, 49280 La Tessoualle",
+        "type": "city",
+        "access": "verify",
+        "desc": "City-stade bitumé de 288 m².",
+        "photo": null,
+        "source": null,
+        "checked": null,
+        "precision": "site",
+        "evidence": "Base initiale ; preuve indépendante non ajoutée en V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.81609,
+          47.04665
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "name": "City-stade de Mazières-en-Mauges",
+        "city": "Mazières-en-Mauges",
+        "address": "Rue de la Forêt, 49280 Mazières-en-Mauges",
+        "type": "city",
+        "access": "verify",
+        "desc": "City-stade bitumé de 288 m².",
+        "photo": null,
+        "source": null,
+        "checked": null,
+        "precision": "site",
+        "evidence": "Base initiale ; preuve indépendante non ajoutée en V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.90737,
+          47.04508
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "name": "École La Girardière",
+        "city": "Cholet",
+        "address": "École La Girardière, Cholet",
+        "type": "school",
+        "access": "restricted",
+        "desc": "Terrain bitumé de 216 m² ; enceinte scolaire, accès non présumé public.",
+        "photo": null,
+        "source": null,
+        "checked": null,
+        "precision": "site",
+        "evidence": "Base initiale ; preuve indépendante non ajoutée en V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.88297,
+          47.05442
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "name": "École Saint-Exupéry",
+        "city": "Cholet",
+        "address": "École Saint-Exupéry, Cholet",
+        "type": "school",
+        "access": "restricted",
+        "desc": "Plateau basket-handball de 561 m² ; enceinte scolaire.",
+        "photo": null,
+        "source": null,
+        "checked": null,
+        "precision": "site",
+        "evidence": "Base initiale ; preuve indépendante non ajoutée en V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9046,
+          47.09107
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "name": "Terrain extérieur du complexe sportif",
+        "city": "Saint-Léger-sous-Cholet",
+        "address": "12 rue de la Vendée, 49280 Saint-Léger-sous-Cholet",
+        "type": "terrain",
+        "access": "public",
+        "desc": "Terrain extérieur de basket recensé au complexe sportif, bitume, environ 648 m². Accès libre signalé, créneaux à confirmer. Point placé au niveau de l’installation.",
+        "photo": null,
+        "source": "https://www.animyjob.com/lieu-sport-enfant/terrain-de-basket-exterieur-saint-leger-sous-cholet-e007i492990004",
+        "checked": "2026-10-17",
+        "precision": "site",
+        "evidence": "Accès public signalé par la source ; pas de vérification sur place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.99176,
+          47.09837
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "name": "Terrain extérieur Saint-André",
+        "city": "Saint-André-de-la-Marche",
+        "address": "Rue Saint-Paul, 49450 Saint-André-de-la-Marche, Sèvremoine",
+        "type": "terrain",
+        "access": "public",
+        "desc": "Terrain de basket extérieur bitumé de 522 m², pratique de loisir déclarée. Repère du complexe sportif.",
+        "photo": null,
+        "source": "https://verymap.net/sport/installations/I493010015/complexe-sportif-saint-andre-de-la-marche/",
+        "checked": "2026-10-17",
+        "precision": "site",
+        "evidence": "Accès public signalé par la source ; pas de vérification sur place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.99228,
+          47.12505
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "name": "Terrain multisports Saint-Macaire",
+        "city": "Saint-Macaire-en-Mauges",
+        "address": "Rue du Docteur Schweitzer, 49450 Saint-Macaire-en-Mauges, Sèvremoine",
+        "type": "city",
+        "access": "verify",
+        "desc": "Espace de loisirs municipal comprenant un terrain extérieur de petits jeux collectifs ; présence de paniers et accès libre à confirmer. Repère du site.",
+        "photo": null,
+        "source": "https://verymap.net/sport/installations/I493010009/espace-multisports-et-loisir-saint-macaire-en-mauges/",
+        "checked": "2026-10-17",
+        "precision": "site",
+        "evidence": "Terrain multisports recensé, mais présence du panier non établie : piste seulement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.94721,
+          47.03146
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "name": "City-stade de la Salette",
+        "city": "Saint-Christophe-du-Bois",
+        "address": "Rue de la Salette, 49280 Saint-Christophe-du-Bois",
+        "type": "city",
+        "access": "public",
+        "desc": "City-stade extérieur synthétique de 220 m², pratique du basket recensée. Repère du site.",
+        "photo": null,
+        "source": "https://verymap.net/sport/installations/I492690006/city-stade/",
+        "checked": "2026-10-17",
+        "precision": "site",
+        "evidence": "Accès public signalé par la source ; pas de vérification sur place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.94221,
+          47.02857
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "name": "Terrain de l’école Victor Schoelcher",
+        "city": "Saint-Christophe-du-Bois",
+        "address": "10–12 rue de la Chapelle, 49280 Saint-Christophe-du-Bois",
+        "type": "school",
+        "access": "restricted",
+        "desc": "Multisports extérieur bitumé de 300 m² ; usage basket déclaré scolaire. Pas un playground libre confirmé.",
+        "photo": null,
+        "source": "https://verymap.net/sport/installations/I492690004/ecole-publique-victor-schoelcher/",
+        "checked": "2026-10-17",
+        "precision": "site",
+        "evidence": "Fiche équipement publiée ; accès à confirmer sur place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.12914,
+          47.09374
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "name": "Terrain multisports Montfaucon-Montigné",
+        "city": "Sèvremoine (Montfaucon-Montigné)",
+        "address": "Rue Saint-Christophe, 49230 Sèvremoine",
+        "type": "city",
+        "access": "public",
+        "desc": "Terrain extérieur multisports en bitume, environ 800 m² ; le basket figure parmi les activités recensées. Accès public déclaré, restrictions éventuelles non vérifiées.",
+        "photo": null,
+        "source": "https://www.verymap.net/sport/installations/I493010008/terrain-multisports-montfaucon-montigne/",
+        "checked": "2026-10-17",
+        "precision": "site",
+        "evidence": "Adresse et coordonnées du RES relayées dans la fiche Verymap ; accès public signalé"
+      }
+    }
+  ]
+}
